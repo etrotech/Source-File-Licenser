@@ -1,0 +1,8 @@
+[scl]
+
+# show time
+SCL_DBG_OPN_ST=tru
+
+
+# debug state
+SCL_DBG_STT=tru

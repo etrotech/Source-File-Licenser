@@ -1,0 +1,10 @@
+[scl]
+
+# license holder
+SCL_LIC_HLDR=Company, Inc.
+
+# license type
+SCL_LIC_TYP=GPL-3.0-or-later
+
+# license year
+SCL_LIC_YR=2023
